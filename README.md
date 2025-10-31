@@ -9,3 +9,5 @@ Created by **22f3002355@ds.study.iitm.ac.in**
 - Clean and simple design  
 
 Visit the live site once published to test the 404 page redirect!
+
+[![CI](https://github.com/22f3002355/enhanced-user-experience/actions/workflows/ci.yml/badge.svg)](https://github.com/22f3002355/enhanced-user-experience/actions/workflows/ci.yml)
